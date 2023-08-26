@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @AntonHarbers
-- 👀 I’m interested in Web/App and Game Development
-- 🌱 I’m currently working on the Odin Project and some Unity games on the side.
+#👋 Hi, I’m @AntonHarbers
+# 👀 I’m interested in Web/App and Game Development
+# 🌱 I’m currently working on the Odin Project and some Unity games on the side.
 
-- Familiar with the following tools:
+## Familiar with the following tools:
 - HTML/CSS
 - JavaScript
 - Typescript
