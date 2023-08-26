@@ -1,4 +1,4 @@
-#👋 Hi, I’m @AntonHarbers
+# 👋 Hi, I’m @AntonHarbers
 # 👀 I’m interested in Web/App and Game Development
 # 🌱 I’m currently working on the Odin Project and some Unity games on the side.
 
