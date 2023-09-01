@@ -2,6 +2,9 @@
 # 👀 I’m interested in Web/App and Game Development
 # 🌱 I’m currently working on the Odin Project and some Unity games on the side.
 
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=antonharbers)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## Familiar with the following tools:
 - HTML/CSS
 - JavaScript
