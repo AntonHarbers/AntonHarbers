@@ -6,23 +6,7 @@
 
 
 ## Familiar with the following tools:
-- HTML/CSS
-- JavaScript
-- Typescript
-- NodeJS
-- React
-- NextJS
-- Tailwind
-  
-- Dart
-- Flutter
-  
-- Unity
-- C# for Unity Development
-
-- POSTGRES
-- MYSQL
-- PRISMA
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,nodejs,react,nextjs,tailwind,dart,flutter,unity,cs,postgres,mysql,prisma)](https://skillicons.dev)
 
 <!---
 AntonHarbers/AntonHarbers is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
