@@ -6,7 +6,7 @@
 
 
 ## Familiar with the following tools:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,nodejs,react,nextjs,tailwind,dart,flutter,godot,gdscript,unity,cs,postgres,mysql,prisma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,nodejs,react,nextjs,tailwind,dart,flutter,godot,unity,cs,postgres,mysql,prisma)](https://skillicons.dev)
 
 <!---
 AntonHarbers/AntonHarbers is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
