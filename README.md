@@ -1,9 +1,8 @@
-# 👋 Hi, I’m @AntonHarbers
-# 👀 I’m interested in Web/App and Game Development
-# 🌱 I’m currently working on the Odin Project and some Godot games on the side.
+# 👋 Welcome to my Github Profile!
+## I’m Anton Harbers and I am interested in Web,App and Game Development.
+## I’m currently working on the Odin Project and some Godot games on the side.
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=antonharbers&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ## Familiar with the following tools:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,nodejs,react,nextjs,tailwind,dart,flutter,godot,unity,cs,postgres,mysql,prisma)](https://skillicons.dev)
