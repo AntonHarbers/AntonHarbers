@@ -5,7 +5,7 @@
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=antonharbers&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Familiar with the following tools:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,nodejs,react,nextjs,tailwind,dart,flutter,godot,unity,cs,postgres,mysql,prisma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,nodejs,react,nextjs,tailwind,dart,flutter,godot,unity,cs,postgres,mysql,prisma,mongo)](https://skillicons.dev)
 
 <!---
 AntonHarbers/AntonHarbers is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
