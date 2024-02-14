@@ -1,4 +1,7 @@
 # 👋 Welcome to my Github Profile!
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=antonharbers)](https://github.com/anuraghazra/github-readme-stats)
+
 ## I’m Anton Harbers and I am interested in Web,App and Game Development.
 ## I’m currently working on the Odin Project and some Godot games on the side.
 
