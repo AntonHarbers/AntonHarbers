@@ -3,7 +3,7 @@
 ## I’m Anton Harbers and I am interested in Web,App and Game Development.
 ## I’m currently working on the Odin Project and some Godot games on the side.
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=antonharbers?theme=youtube-dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=antonharbers&theme=youtube-dark)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antonharbers&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
