@@ -1,7 +1,6 @@
-# 👋 Welcome to my Github Profile!
+# 👋 Cheers!
 
-## I’m Anton Harbers and I am interested in Web,App and Game Development.
-## I’m currently working on the Odin Project and some Godot games on the side.
+## I’m Anton Harbers and I am currently maining Javascript <3
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=antonharbers&theme=youtube-dark)](https://git.io/streak-stats)
 
