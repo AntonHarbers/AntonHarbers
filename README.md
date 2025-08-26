@@ -2,7 +2,7 @@
 
 ## I’m Anton Harbers and I am currently maining Javascript <3
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=antonharbers&theme=youtube-dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=antonharbers&theme=tokyonight)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antonharbers&layout=donut&theme=shadow_red&text_color=fff&title_color=fff&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
